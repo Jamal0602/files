@@ -1,6 +1,6 @@
-apps: { name: "Axial Ai", url: "https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial", description: "Download Axial Ai - Latest version available", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/ai.png" }
+apps: { name: "Axial Ai", url: "https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial", description: "Download Axial Ai - Latest version available", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/store/axial-logo-CaYSmeOG.png" }
 
-web: { name: "CGT Landing Page", url: "https://www.cubiz.space", description: "Innovation Hub To Make More Innovative", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/cgt.png" }
-web: { name: "Jamal Asraf", url: "https://ja.cubiz.space", description: "Portfolio Of The Founder of CGT The Master Mind", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/img/dp.png" }
+web: { name: "CGT Landing Page", url: "https://www.cubiz.space", description: "Innovation Hub To Make More Innovative", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/store/IMG_20250408_152956.jpg" }
+web: { name: "Jamal Asraf", url: "https://ja.cubiz.space", description: "Portfolio Of The Founder of CGT The Master Mind", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/store/4e4b3460-5bad-44ba-99ca-618efa287499-removebg-preview.png" }
 
 appInfo: { name: "Cubiz Store", logo: "/logo.png", home: "https://store.cubiz.space" }
