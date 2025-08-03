@@ -18,7 +18,7 @@ web: {
   name: "CGT Landing Page",
   url: "https://www.cubiz.space",
   description: "Innovation Hub To Make More Innovative",
-  image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/cgt.png"
+  image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/cgt.ico"
 }
 
 web: {
