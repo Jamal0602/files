@@ -1,0 +1,11 @@
+<apps>
+{
+   (Axial Ai) - [https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial];
+}
+</apps>
+
+<inti>
+appname : [Cubiz Web Store]
+applogo : []
+apphome : [https://store.cubiz.space]
+</init>
