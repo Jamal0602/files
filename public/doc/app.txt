@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "(Axial Ai",
+      "name": "Axial Ai",
       "url": "https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial",
       "description": "Download (Axial Ai - Latest version available"
       "image" : "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/ai.png" 
