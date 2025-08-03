@@ -1,29 +1,6 @@
-apps: {
-  name: "Axial Ai",
-  url: {
-    android: "https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial",
-    windows: "https://a0.dev/app-builds/137d0c84_windows_release.exe"
-  },
-  description: "Download Axial Ai - Latest version available",
-  image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/ai.png"
-}
+apps: { name: "Axial Ai", url: "https://a0.dev/app-builds/137d0c84_android_release.apk?download=Axial", description: "Download Axial Ai - Latest version available", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/ai.png" }
 
-appInfo: {
-  name: "Cubiz Store",
-  logo: "/logo.png",
-  home: "https://store.cubiz.space"
-}
+web: { name: "CGT Landing Page", url: "https://www.cubiz.space", description: "Innovation Hub To Make More Innovative", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/cgt.png" }
+web: { name: "Jamal Asraf", url: "https://ja.cubiz.space", description: "Portfolio Of The Founder of CGT The Master Mind", image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/img/dp.png" }
 
-web: {
-  name: "CGT Landing Page",
-  url: "https://www.cubiz.space",
-  description: "Innovation Hub To Make More Innovative",
-  image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/logo/cgt.ico"
-}
-
-web: {
-  name: "Jamal Asraf",
-  url: "https://ja.cubiz.space",
-  description: "Portfolio Of The Founder of CGT The Master Mind",
-  image: "https://raw.githubusercontent.com/Jamal0602/files/main/public/img/dp.png"
-}
+appInfo: { name: "Cubiz Store", logo: "/logo.png", home: "https://store.cubiz.space" }
