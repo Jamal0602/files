@@ -1,4 +1,7 @@
 {
+  [www.google.com] - (www.google.com) - <Browser Google>;
+}
+{
   [https://watchporn.to/embed/114614] - (https://watchporn.to/contents/videos_screenshots/114000/114614/preview_720p.mp4.jpg) - <ARMANI SOFA XXX>;
 }
 {
