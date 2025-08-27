@@ -1,0 +1,89 @@
+=======================PHYTHON PROGRAMMING=======================
+
+##Assignment on Python Programming
+
+1. Introduction
+
+	Python is a high-level, general-purpose programming language created for simplicity and readability.
+	 It uses easy-to-understand syntax similar to plain English, making it a beginner-friendly language.
+
+What is Python?
+	Python is an interpreted, object-oriented, dynamically-typed programming language.
+
+Why Python?
+	Because it is simple, powerful, portable, and has a huge community support.
+
+What can Python do?
+	* Build software applications
+	* Develop websites and web apps
+	* Automate tasks
+	* Handle data analysis and visualization
+	* Power artificial intelligence and machine learning
+
+2. History of Python
+	Python was developed by Guido van Rossum in the late 1980s and officially released in 1991 at the Centrum Wiskunde & Informatica (CWI), Netherlands.
+	 It was inspired by the ABC programming language and named after the comedy show “Monty Python’s Flying Circus”.
+
+	Timeline of Python Development
+	
+		Year	Version /Event				Key Features
+		1989	Idea conceived by Guido van Rossum	Started as a hobby project
+		1991	Python 0.9.0 released			Functions, exceptions, core data types
+		2000	Python 2.0 released			List comprehensions, garbage collection
+		2008	Python 3.0 released			Major improvements, not backward-compatible
+		2020	End of support for Python 2		Full shift to Python 3 
+             Present	Python 3.x versions			Widely used in AI, ML, web, data science
+3. Merits and Demerits of Python
+
+	Merits (Advantages)										Demerits (Disadvantages)
+
+1. Easy to learn and read → Syntax is close to English, beginner-friendly.			1. Slower execution → Being interpreted, it is slower than C/C++.
+2. Extensive libraries → Rich built-in and third-party modules.					2. Not ideal for mobile apps → Limited use in Android/iOS app development.
+3. Cross-platform → Works on Windows, macOS, Linux.						3. High memory usage → Uses more RAM than lower-level languages.
+4. Strong community → Large support forums, active updates.					4. Dynamic typing errors → Runtime errors may occur due to loose typing.
+5. Open-source → Free to use, modify, and distribute.						5. Not always enterprise-preferred → Some industries still prefer Java, C++, or Go.
+
+4. Major Usage of Python in Daily Life & Modern Tech
+
+	* Web development (Django, Flask)
+	* Data analysis & visualization (Pandas, Matplotlib)
+	* Automation & scripting (task automation, bots)
+	* Game development & GUI apps (Pygame, Tkinter)
+	* Artificial Intelligence & Machine Learning (TensorFlow, Scikit-learn, PyTorch) 
+
+5. Comparison with Other Programming Languages
+
+These languages were widely used before Python was developed and during its early years.
+
+	C++
+
+		Strengths: Object-oriented, faster than Python, widely used for gaming, operating systems, and high-performance applications.
+
+		Weaknesses: Harder to learn, complex memory management, lengthy codes compared to Python.
+
+	Java	
+
+		Strengths: Platform-independent (write once, run anywhere), large libraries, widely used in enterprise applications.
+
+		Weaknesses: Verbose syntax, slower development speed compared to Python, less flexible for quick scripting tasks.
+
+------------
+
+After Python’s success, many new languages emerged with modern features, but Python still remains dominant.
+
+	JavaScript
+
+		Strengths: Backbone of web development, runs on browsers, can be used with Node.js for backend.
+
+		Weaknesses: Complex for beginners, less versatile for data science and AI compared to Python.
+
+6. Conclusion
+
+	Python is one of the most influential programming languages of the modern era.
+	Its simplicity, flexibility, and rich ecosystem make it a favorite for both beginners and professionals. 
+	From daily automation to cutting-edge AI research, Python is shaping the future of technology. 
+	With continuous community support and adoption, Python will remain a cornerstone in the software industry.
+
+
+
+
